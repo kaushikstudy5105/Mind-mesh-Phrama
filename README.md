@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <img src="./src/assets/pharma-logo.png" alt="PharmaGuard Logo" width="80" />
 </p>
@@ -420,3 +421,7 @@ Not intended for clinical diagnosis or medical decision-making.
 <p align="center">
   <sub>Built with ❤️ at Hackathon 2026 · Powered by CPIC Guidelines &amp; Google Gemini</sub>
 </p>
+=======
+# Mind-mesh-Phrama
+RIFT2026
+>>>>>>> 2799ee56bdaa9a6155d6860ea2e196a778d085cd
