@@ -402,12 +402,10 @@ Hackathon-medic2/
 
 ## 👥 Team
 
-| Name | Role | LinkedIn |
-|------|------|----------|
-| **Team Member 1** | Full-Stack Developer | [LinkedIn](https://linkedin.com/in/PROFILE) |
-| **Team Member 2** | Backend / AI Engineer | [LinkedIn](https://linkedin.com/in/PROFILE) |
-| **Team Member 3** | Frontend / UI Designer | [LinkedIn](https://linkedin.com/in/PROFILE) |
-| **Team Member 4** | Data / Genomics | [LinkedIn](https://linkedin.com/in/PROFILE) |
+1-Kaushik NK
+2-Nithin Kumar
+3-Pragathi
+4-Nidhi
 
 ---
 
@@ -416,12 +414,7 @@ Hackathon-medic2/
 This project was built for **hackathon purposes** and is intended for **research use only**.
 Not intended for clinical diagnosis or medical decision-making.
 
----
 
-<p align="center">
-  <sub>Built with ❤️ at Hackathon 2026 · Powered by CPIC Guidelines &amp; Google Gemini</sub>
-</p>
-=======
 # Mind-mesh-Phrama
 RIFT2026
 >>>>>>> 2799ee56bdaa9a6155d6860ea2e196a778d085cd
